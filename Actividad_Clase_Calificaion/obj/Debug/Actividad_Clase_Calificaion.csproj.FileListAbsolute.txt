@@ -1,0 +1,7 @@
+C:\Users\Tecnologico\source\repos\Actividad_Clase_Calificaion\bin\Debug\Actividad_Clase_Calificaion.exe.config
+C:\Users\Tecnologico\source\repos\Actividad_Clase_Calificaion\bin\Debug\Actividad_Clase_Calificaion.exe
+C:\Users\Tecnologico\source\repos\Actividad_Clase_Calificaion\bin\Debug\Actividad_Clase_Calificaion.pdb
+C:\Users\Tecnologico\source\repos\Actividad_Clase_Calificaion\obj\Debug\Actividad_Clase_Calificaion.csproj.AssemblyReference.cache
+C:\Users\Tecnologico\source\repos\Actividad_Clase_Calificaion\obj\Debug\Actividad_Clase_Calificaion.csproj.CoreCompileInputs.cache
+C:\Users\Tecnologico\source\repos\Actividad_Clase_Calificaion\obj\Debug\Actividad_Clase_Calificaion.exe
+C:\Users\Tecnologico\source\repos\Actividad_Clase_Calificaion\obj\Debug\Actividad_Clase_Calificaion.pdb
